@@ -2,7 +2,7 @@
  Hello This is Al Adnan Sami from Noakhali Science and Technology University.
  */
 
-package java_class_2;
+package Condition_Loops;
 
 import java.util.Scanner;
 

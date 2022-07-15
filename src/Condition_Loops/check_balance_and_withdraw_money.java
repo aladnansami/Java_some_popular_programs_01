@@ -1,7 +1,7 @@
 /*Question: 4. Write a program to check balance and withdraw money from ATM booth using if else or switch case?
  Hello This is Al Adnan Sami from Noakhali Science and Technology University.
  */
-package java_class_2;
+package Condition_Loops;
 
 import java.util.Scanner;
 

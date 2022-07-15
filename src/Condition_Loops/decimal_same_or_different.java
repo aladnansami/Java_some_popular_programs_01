@@ -1,7 +1,7 @@
 /*Question:3. Input 2 decimal numbers and check if they are both same or different up to two decimal places. E.g 120.546 & 120.241?
  Hello This is Al Adnan Sami from Noakhali Science and Technology University.
  */
-package java_class_2;
+package Condition_Loops;
 
 import java.util.Scanner;
 
