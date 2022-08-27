@@ -47,6 +47,11 @@ https://github.com/aladnansami/Java_some_popular_programs_01/blob/main/src/java_
 10. Write a program to enter the numbers till the user wants and at the end, the program should display the largest and smallest numbers user entered.<br>
 https://github.com/aladnansami/Java_some_popular_programs_01/blob/main/src/java_class_2/display_the_largest_and_smallest_numbers.java
 
+
+# IDE 
+INTELIJ IDEA
 # How you can use?
 just download it and open intellij IDE
 <img src="https://github.com/aladnansami/Java_some_popular_programs_01/blob/main/123.png">
+
+
